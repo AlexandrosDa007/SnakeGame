@@ -18,8 +18,8 @@ Also you can change the display of grid lines
 
 
 #### This is the menu for the options of the game
-![Snake Options](https://drive.google.com/file/d/1T8OjlwM1nksPM-vKowNYtkot3xGRW7ZX/view?usp=sharing)
+![](images/snakeOptions.png)
 
 
 #### This is the game window
-![Snake Game](https://drive.google.com/file/d/1DYZFi_d66ydET_uTSo_4drWPlvo8KlGt/view?usp=sharing)
+![](images/snakeGame.png)
